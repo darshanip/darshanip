@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
-<h3 align="center">Software Development | Open-Source</h3>
+<h3 align="center">Devops | Open-Source</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanip&label=Profile%20views&color=0e75b6&style=flat" alt="darshanip" /> </p>
 
-- 💬 Ask me about **Python | APIs | Mircoservices | Linux | REST | Cloud | DevOps**
+- 💬 Ask me about **Python | APIs | Linux | REST | Cloud | DevOps**
 
 <h3 align="left">Connect with me 🤝</h3>
 <div align="left">
@@ -18,6 +18,16 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white"/>
+  <img alt="Github Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"/>
+  <img alt="" src=""/>
+  <img alt="" src=""/>
+  <img alt="" src=""/>
+  <img alt="" src=""/>
+  <img alt="" src=""/>
   </div>
 </div>
 </p>
