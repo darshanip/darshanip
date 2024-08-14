@@ -23,7 +23,7 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white"/>
   <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"/>
-  <img alt="" src=""/>
+  <img alt="ArgoCD" src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044"/>
   <img alt="" src=""/>
   <img alt="" src=""/>
   <img alt="" src=""/>
